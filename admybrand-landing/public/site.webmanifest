@@ -1,0 +1,30 @@
+{
+  "name": "ADmyBRAND AI - Transform Your Marketing with AI",
+  "short_name": "ADmyBRAND AI",
+  "description": "Revolutionize your marketing strategy with intelligent automation, predictive analytics, and personalized campaigns.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#8b5cf6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["business", "productivity", "marketing"],
+  "lang": "en",
+  "dir": "ltr"
+}
